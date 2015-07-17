@@ -5,7 +5,7 @@
     <description>Connect to BuyAndSellTucsonRealEstate.com and Get the Most Accurate and Up-To-Date Information About the Tucson Home Market.</description>
     <author email="james@jamesportis.com" href="http://www.jamesportis.com">James Portis</author>
 
-    <preference name='phonegap-version' value='cli-5.1.1' />
+    <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
@@ -23,7 +23,7 @@
     <gap:plugin name="org.apache.cordova.vibration" />
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
-	<gap:plugin name='org.crosswalk.engine' version='1.3.0' source='pgb' />
+	
 
 	<icon src="icon.png" />
 	
