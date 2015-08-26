@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.buyandselltucsonrealestate.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.viewtucsonrealestate.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Buy And Sell Tucson Real Estate App</name>
-    <description>Connect to BuyAndSellTucsonRealEstate.com and Get the Most Accurate and Up-To-Date Information About the Tucson Home Market.</description>
+    <name>View Tucson Real Estate App</name>
+    <description>View Tucson Real Estate App</description>
     <author email="james@jamesportis.com" href="http://www.jamesportis.com">James Portis</author>
 
     <preference name="phonegap-version" value="3.7.0" />
@@ -48,6 +48,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://buyandselltucsonrealestate.com" />
+    <content src="http://viewtucsonrealestate.com" />
     <access origin="*" subdomains="true" />
 </widget>
