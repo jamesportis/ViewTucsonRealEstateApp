@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.viewtucsonrealestate.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>View Tucson Real Estate App</name>
-    <description>View Tucson Real Estate App</description>
+    <name>My Tucson Home Search App</name>
+    <description>My Tucson Homes Search App</description>
     <author email="james@jamesportis.com" href="http://www.jamesportis.com">James Portis</author>
 
     <preference name="phonegap-version" value="3.7.0" />
